@@ -16,3 +16,4 @@
 
 #### Build my own `GUI`
 - [**Python**: Pomodoro](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/python-pomodoro-timer)
+- [**Python**: Paint](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/python-paint)
