@@ -19,3 +19,7 @@
 - [**Python**: Paint](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/python-paint)
 - [**Python**: Calculator](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/python-calculator)
 - [**Python**: Text Editor](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/python-text-editor)
+- [**Python**: Image Editor]
+- [**Python**: Web Browser]
+
+#### Build my own `Tool`
