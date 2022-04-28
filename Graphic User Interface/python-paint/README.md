@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](C:\Users\Erins Desktop\Downloads\build-my-own-x\Graphic User Interface\python-paint\screenshot.png)
+![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Graphic%20User%20Interface/python-paint/screenshot.png)
 
 
 ## My process
