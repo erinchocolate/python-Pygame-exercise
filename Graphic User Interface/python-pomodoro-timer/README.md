@@ -1,3 +1,17 @@
+# Pomodoro Clock
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+
+## Overview
+
 ### Use case description
 
 - The user chooses the clock mode - Pomodoro, long break and short break
@@ -30,3 +44,26 @@
 - When the user changes tabs, clear the timer and jumps to the tab choosen
 - After 4 complete Pomodoro timers, show the long break tab
 - After each Pomodoro timer, shows the short break tab
+
+### Screenshot
+
+
+
+## My process
+
+### Built with
+
+- Python 3.10
+- tk module
+- pyinstaller
+- pygame
+
+### What I learned
+
+How to make python file into exe file
+
+- `pip install pyinstaller`
+- `pyinstaller --onefile -w [filename]`
+- install NSIS
+- compress the python file
+- use NSIS "installer based on ZIP file"
