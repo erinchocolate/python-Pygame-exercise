@@ -1,3 +1,5 @@
+![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Game/python-turtle-racing/screenshot.png)
+
 This document is for my personal reference on what I use in this project include modules, functions and etc.
 
 ## [Turtle](https://docs.python.org/3/library/turtle.html)
