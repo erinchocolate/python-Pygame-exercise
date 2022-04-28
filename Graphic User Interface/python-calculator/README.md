@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshot
 
 
-### ![screenshot](C:\Users\Erins Desktop\Downloads\build-my-own-x\Game\python-flappy-bird\screenshot.png)
+### ![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Graphic%20User%20Interface/python-calculator/screenshot.png)
 
 
 ## My process
