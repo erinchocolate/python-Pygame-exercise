@@ -9,10 +9,6 @@ class MainWindow(qtw.QWidget):
         self.keypad()
         self.temp_nums = []
         self.fin_nums = []
-
-
-
-
         self.show()
 
     def keypad(self):
