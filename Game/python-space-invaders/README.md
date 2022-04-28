@@ -1,3 +1,5 @@
+![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Game/python-space-invaders/screenshot.png)
+
 This document is for my personal reference on what I use in this project include modules, functions and etc.
 
 ## What makes the game
