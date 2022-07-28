@@ -1,0 +1,50 @@
+Distributed Systems Design
+Applied Electromagnetics and Compliance
+Programmable Digital Logic
+Internet Engineering
+Advanced Network Engineering
+Advanced Electronic Instrumentation
+Advanced Electronics
+Mobile Computing
+Microfabricated Devices
+Security Engineering
+Power Electronics
+Distributed Computing in Grids and Clouds
+Advanced Communications Engineering
+Advanced Development of Renewable Energy Systems
+Power Systems Analysis
+Coding and Cryptography for Communications
+Advanced Control Systems Engineering
+Artificial Intelligence
+Formal Software Engineering
+Advanced Signal Processing
+Machine Learning Tools and Techniques
+Convex Optimisation
+Human Computer Interaction
+Design: Patterns, Frameworks and Languages
+Model-Driven Development
+Advanced Robotic Engineering
+Neural Networks and Deep Learning
+Design Patterns
+Advanced Software Implementation and Development
+Advanced Software Engineering: Requirements and Design
+Evolutionary Computation and Learning
+Big Data
+Protocols and Architecture for the Internet of Things
+Text Mining and Natural Language Processing
+Probabilistic Machine Learning
+Robotic Intelligence and Design
+Applications and Implications of Artificial Intelligence
+Compiler Engineering
+Advanced Programming Languages
+Musical Robotics
+Current Topics in Artificial Intelligence
+Advanced Database Design and Implementation
+Web Information Systems Engineering
+Data Warehousing
+Special Topic: System and Network Security
+Special Topic: Automated Program Analysis
+Special Topic: Database System Engineering
+Special Topic: Protocols and Architecture for the Internet of Things
+Special Topic: Mechatronic Design
+Advanced Signal Processing
