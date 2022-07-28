@@ -23,5 +23,5 @@
 - [**Python**: Web Browser](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/python-web-browser)
 - [**Python**: Youtube Downloader](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/python-youtube-downloader)
 - [**Python**: Weather App](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/python-weather-app)
-
+- [**Java**: Student Course Chooser](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/Java-student-course-chooser)
 #### Build my own `Tool`
