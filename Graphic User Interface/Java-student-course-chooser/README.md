@@ -34,7 +34,8 @@ Each course can:
 - show student list and grade list
 
 ### Screenshot
-
+![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Graphic%20User%20Interface/Java-student-course-chooser/Student%20info.PNG)
+![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Graphic%20User%20Interface/Java-student-course-chooser/Course%20info.PNG)
 
 ## My process
 
