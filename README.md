@@ -23,7 +23,7 @@
 - [**Python**: Web Browser](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/python-web-browser)
 - [**Python**: Youtube Downloader](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/python-youtube-downloader)
 - [**Python**: Weather App](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/python-weather-app)
-- [**Java**: Student Course Chooser](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/Java-student-course-chooser)
+- [**Java**: Student system](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/Java-student-course-chooser)
 - [**Java**: Accounts system](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/Java-accounts-system)
-- [**Java**: Accounts system](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/Java-library-system)
+- [**Java**: Library system](https://github.com/erinchocolate/build-my-own-x/tree/master/Graphic%20User%20Interface/Java-library-system)
 #### Build my own `Tool`
