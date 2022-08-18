@@ -31,7 +31,7 @@ There are five types of contacts:
 Each contact have different data points.
 
 ### Screenshot
-![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Graphic%20User%20Interface/Java-accounts-system/Screenshot.PNG)
+![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/GUI/Java-accounts-system/Screenshot.PNG)
 ## My process
 
 ### Built with
