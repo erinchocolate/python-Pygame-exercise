@@ -5,8 +5,7 @@ import java.util.List;
 import ecs100.UI;
 
 public class AccountsUI {
-
-	// You will need to create the "Contact" type!
+	
 	private List<Contact> contacts = new ArrayList<>();
 	private List<Individual> staff = new ArrayList<>();
 	private List<Individual> personalCustomer = new ArrayList<>();
@@ -29,15 +28,12 @@ public class AccountsUI {
 		UI.addButton("Compute total profit", this::computeProfit);
 		UI.addButton("List all transactions", this::listTransactions);
 		UI.addButton("Find transaction by contact name", this::searchTransactionsByName);
-		UI.addButton("Find transaction by threshold", this::searchTransactionsByNumber);
-		
-		// Your code here?
+		UI.addButton("Find transaction by threshold", this::searchTransactionsByNumber);		
 	}
 	
 	private void addPerson() {
 		String name = UI.askString("Name: ");
 		int age = UI.askInt("Age: ");
-		// Your code here...
 		Individual individual = new Individual(name, age);
 		contacts.add(individual);
 		if(checkStaff(individual)) {
@@ -52,7 +48,6 @@ public class AccountsUI {
 		// Add a supplier to the list of contacts
 		String name = UI.askString("Name: ");
 		int nbn = UI.askInt("Business number: ");
-		// Your code here...
 		Supplier supplier = new Supplier(name, nbn);
 		contacts.add(supplier);
 	}
@@ -61,22 +56,20 @@ public class AccountsUI {
 		// Add a business client to the list of contacts
 		String name = UI.askString("Name: ");
 		int nbn = UI.askInt("Business number: ");
-		// Your code here...
+		
 		Client client = new Client(name, nbn);
 		contacts.add(client);
 	}
 	
 	private void addTradingPartner() {
 		// Add someone who is both a buyer and a seller to the list of contacts
-		String name = UI.askString("Name: ");
-		// Your code here...
+		String name = UI.askString("Name: ");		
 		Partner partner = new Partner(name);
 		contacts.add(partner);
 	}
 	
 	private void listContacts() {
 		// List all contacts in the system
-		// Your code here...
 		UI.clearPanes();
 		UI.println("Here is the contact list:");
 		for(Contact c: contacts) {
@@ -100,7 +93,6 @@ public class AccountsUI {
 		// Find one of the contacts by name and report on them
 		UI.clearPanes();
 		String name = UI.askString("Name: ");
-		// Your code here...
 		if(getContact(name) == null) {
 			UI.println("The contact you search for doesn't exsit!");
 		}
@@ -170,7 +162,6 @@ public class AccountsUI {
 		String name = UI.askString("Supplier: ");
 		String product = UI.askString("Purchased: ");
 		Double price = UI.askDouble("Price: ");
-		// Your code here...
 		if(getContact(name) == null) {
 			UI.println("Please add this supplier first.");
 		}
@@ -191,7 +182,6 @@ public class AccountsUI {
 		String name = UI.askString("Customer: ");
 		String product = UI.askString("Purchased: ");
 		Double price = UI.askDouble("Price: ");
-		// Your code here...
 		if(getContact(name) == null) {
 			UI.println("Please add this client first.");
 		}
@@ -211,7 +201,6 @@ public class AccountsUI {
 		Contact contact;
 		// Report how much has been paid by/to a contact
 		String name = UI.askString("Name: ");
-		// Your code here...
 		if(getContact(name) == null) {
 			UI.println("Please add this contact first.");
 		}
@@ -230,7 +219,6 @@ public class AccountsUI {
 	
 	private void computeProfit() {
 		// Compute the total profit of the business (sales - purchases)
-		// Your code here...
 		Double sales = 0.0;
 		Double purchase = 0.0;
 		Double profit = 0.0;
