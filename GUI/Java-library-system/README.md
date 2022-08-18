@@ -28,7 +28,7 @@ To issue a book to a patron, I need to make sure:
 - The book can be only borrowed to one patron
 
 ### Screenshot
-![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Graphic%20User%20Interface/Java-library-system/screenshot.PNG)
+![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/GUI/Java-library-system/screenshot.PNG)
 
 ## My process
 
