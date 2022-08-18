@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Graphic%20User%20Interface/python-weather-app/screenshot.png)
+![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/GUI/python-weather-app/screenshot.png)
 
 ## My process
 
