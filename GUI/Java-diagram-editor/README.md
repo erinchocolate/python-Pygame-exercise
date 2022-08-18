@@ -11,8 +11,12 @@ In diagram editor, users can:
 - save shape data into a txt file
 - load and display shape data from a txt file
 
+![diagram](https://github.com/erinchocolate/build-my-own-x/blob/master/GUI/Java-diagram-editor/demo.gif)
+
 There are two sample txt.file(flowchart.txt and mindmap.txt) in the project that you can load into the program.
 
+![flowchart](https://github.com/erinchocolate/build-my-own-x/blob/master/GUI/Java-diagram-editor/flowchart.PNG.png)
+![mindmap](https://github.com/erinchocolate/build-my-own-x/blob/master/GUI/Java-diagram-editor/mindmap.PNG.png)
 
 
 ### Tic tac toe
@@ -23,7 +27,7 @@ In this game,
 - the computer generates a random move
 - display winner or tie after the game finishes
 
-
+![tictactoe](https://github.com/erinchocolate/build-my-own-x/blob/master/GUI/Java-diagram-editor/tictactoe.gif)
 
 ### **Continued development**
 
