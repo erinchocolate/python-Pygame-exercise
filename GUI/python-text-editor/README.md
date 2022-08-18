@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Graphic%20User%20Interface/python-text-editor/screenshot.png)
+![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/GUI/python-text-editor/screenshot.png)
 
 ## My process
 
