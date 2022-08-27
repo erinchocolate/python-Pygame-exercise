@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Game/python-pixel-runner/screenshot.png)
+![screenshot](https://github.com/erinchocolate/python-Pygame-exercise/blob/master/pixel-runner/screenshot.png)
 
 
 ## My process
