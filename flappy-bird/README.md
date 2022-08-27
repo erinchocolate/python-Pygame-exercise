@@ -23,7 +23,7 @@ Player should be able to:
 
 ### Screenshot
 
-![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Game/python-flappy-bird/screenshot.png)
+![screenshot](https://github.com/erinchocolate/python-Pygame-exercise/blob/master/flappy-bird/screenshot.png)
 
 
 ## My process
