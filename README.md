@@ -1,29 +1,16 @@
-> What I can not create, I can not understand. -- Richard Feynman
+# Pygame Exercise
 
-# Projects
+## What is Pygame
 
-#### Build my own `Game`
+[Pygame](https://www.pygame.org/news) is a cross-platform set of Python modules designed for writing video games.
 
-- [**Python**: Flappy bird](https://github.com/erinchocolate/build-my-own-x/tree/master/Game/python-flappy-bird)
-- [**Python**: Snake](https://github.com/erinchocolate/build-my-own-x/tree/master/Game/python-snake)
-- [**Python**: Pixel runner](https://github.com/erinchocolate/build-my-own-x/tree/master/Game/python-pixel-runner)
-- [**Python**: Roomba simulator](https://github.com/erinchocolate/build-my-own-x/tree/master/Game/python-roomba-simulator)
+## About this repo
+
+This repository contains the games I created when I studied Python and Pygame module.
+
+- [Flappy bird](https://github.com/erinchocolate/python-Pygame-exercise/tree/master/flappy-bird)
+- [Snake](https://github.com/erinchocolate/python-Pygame-exercise/tree/master/snake)
+- [Pixel runner](https://github.com/erinchocolate/python-Pygame-exercise/tree/master/pixel-runner)
+- [Roomba simulator](https://github.com/erinchocolate/python-Pygame-exercise/tree/master/roomba-simulator)
 - [**Python**: Space invaders](https://github.com/erinchocolate/build-my-own-x/tree/master/Game/python-space-invaders)
-- [**Python**: Spaceship battle](https://github.com/erinchocolate/build-my-own-x/tree/master/Game/python-spaceship-battle)
-- [**Python**: Turtle racing](https://github.com/erinchocolate/build-my-own-x/tree/master/Game/python-turtle-racing)
-- [**Python**: Typing speed test](https://github.com/erinchocolate/build-my-own-x/tree/master/Game/python-typing-speed-test)
-- [**Python**: Hangman](https://github.com/erinchocolate/build-my-own-x/tree/master/Game/python-hangman)
-
-#### Build my own `GUI`
-- [**Python**: Pomodoro](https://github.com/erinchocolate/build-my-own-x/tree/master/GUI/python-pomodoro-timer)
-- [**Python**: Paint](https://github.com/erinchocolate/build-my-own-x/tree/master/GUI/python-paint)
-- [**Python**: Calculator](https://github.com/erinchocolate/build-my-own-x/tree/master/GUI/python-calculator)
-- [**Python**: Text Editor](https://github.com/erinchocolate/build-my-own-x/tree/master/GUI/python-text-editor)
-- [**Python**: Image Editor](https://github.com/erinchocolate/build-my-own-x/tree/master/GUI/python-image-editor)
-- [**Python**: Web Browser](https://github.com/erinchocolate/build-my-own-x/tree/master/GUI/python-web-browser)
-- [**Python**: Youtube Downloader](https://github.com/erinchocolate/build-my-own-x/tree/master/GUI/python-youtube-downloader)
-- [**Python**: Weather App](https://github.com/erinchocolate/build-my-own-x/tree/master/GUI/python-weather-app)
-- [**Java**: Student system](https://github.com/erinchocolate/build-my-own-x/tree/master/GUI/Java-student-course-chooser)
-- [**Java**: Accounts system](https://github.com/erinchocolate/build-my-own-x/tree/master/GUI/Java-accounts-system)
-- [**Java**: Library system](https://github.com/erinchocolate/build-my-own-x/tree/master/GUI/Java-library-system)
-- [**Java**: Diagram editor](https://github.com/erinchocolate/build-my-own-x/tree/master/GUI/Java-diagram-editor)
+- [Spaceship battle](https://github.com/erinchocolate/python-Pygame-exercise/tree/master/spaceship-battle)
