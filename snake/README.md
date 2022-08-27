@@ -40,7 +40,7 @@ When the snake's head collide with the fruit. The fruit changes its position ran
 
 ### Screenshot
 
-![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Game/python-snake/screenshot.png)
+![screenshot](https://github.com/erinchocolate/python-Pygame-exercise/blob/master/snake/screenshot.png)
 
 ## My process
 
