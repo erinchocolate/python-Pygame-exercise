@@ -1,4 +1,4 @@
-![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Game/python-spaceship-battle/screenshot.png)
+![screenshot](https://github.com/erinchocolate/python-Pygame-exercise/blob/master/spaceship-battle/screenshot.png)
 
 This is my first time to use pygame to create a game. I followed the tutorial created by [Tech With Tim](https://www.youtube.com/watch?v=jO6qQDNa2UY).
 
